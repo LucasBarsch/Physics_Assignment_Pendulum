@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+tabela_pendulo.csv
+tabela_pendulo.txt
